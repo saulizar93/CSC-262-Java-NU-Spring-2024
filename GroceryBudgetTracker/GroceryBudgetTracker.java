@@ -6,7 +6,7 @@ public class GroceryBudgetTracker{
 
         // create scanner object
         Scanner scanner = new Scanner(System.in); 
-
+        // succesfully merged
         System.out.println("This program will help you track your grocery spending over a week and then estimate your monthly grocery budget");
 
         System.out.println("Enter your name: ");
